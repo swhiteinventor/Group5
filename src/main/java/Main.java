@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Sam White");
         System.out.println("Alan");
         System.out.println("Sam");
-        System.out.println("WORLD");
+        System.out.println("Anthony");
     }
 }
